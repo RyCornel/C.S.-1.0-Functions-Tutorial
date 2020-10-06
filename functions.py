@@ -20,3 +20,9 @@ def subtract(num1, num2):
     return result
 
 print(subtract(267, 139))
+
+
+#Q5 Add two more calls.
+print(subtract(67, 28))
+print(subtract(48, 33))
+
