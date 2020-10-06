@@ -12,3 +12,11 @@ print(result)
 #Q3 Add two more calls.
 area(9, 4)
 area(10, 15)
+
+
+#Q4 Fill in the blanks.
+def subtract(num1, num2):
+    result = num1 - num2
+    return result
+
+print(subtract(267, 139))
