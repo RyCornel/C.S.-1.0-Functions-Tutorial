@@ -9,3 +9,6 @@ def area(width, height):
 result = area(5, 6)
 print(result)
 
+#Q3 Add two more calls.
+area(9, 4)
+area(10, 15)
