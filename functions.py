@@ -26,3 +26,7 @@ print(subtract(267, 139))
 print(subtract(67, 28))
 print(subtract(48, 33))
 
+#Q6 Divide. In order to divide, what should the function parameters be, what should it return?
+def divide(num1, num2):
+  results = num1 / num2
+  return results
